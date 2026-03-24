@@ -29,8 +29,6 @@ public class DeberSemana15 {
             System.out.println(clave + " " + notas.get(clave)); 
         }
         
-        notas.get("Juan"); 
-
        
     }
     
